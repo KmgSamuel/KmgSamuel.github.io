@@ -1,11 +1,10 @@
-# v3
+# v1
 
-Third iteration of my personal website built with Jekyll.
+This is the first iteration of my personal website built with Jekyll.
 
-> 📢 **PSA for those who want to fork or copy this repo and use it for their own site:**
+> 📢 **Credits:**
 >
-> Please be a decent person and give me proper credit by linking back to my website! Refer to this handy [quora post](https://www.quora.com/Is-it-bad-to-copy-other-peoples-code) if you're not sure.
-
+> This project started with the invaluable help of a template from Brittany Chiang(https://github.com/bchiang7/bchiang7.github.io), created by Brittany Chiang. Thank you for sharing your work!
 ## Dependencies
 
 - [Gulp](https://gulpjs.com/)
