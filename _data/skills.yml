@@ -1,0 +1,37 @@
+languages:
+  - item: JavaScript (ES6)
+  - item: TypeScript
+  - item: HTML
+  - item: CSS/Sass
+  - item: Python
+  - item: SQL
+  - item: R
+  - item: Matlab
+  - item: Dart
+  - item: Solidity
+  - item: Rust
+
+frameworks:
+  - item: Django
+  - item: React
+  - item: Jekyll
+  - item: Node
+  - item: Tailwind
+  - item: Pytorch
+  - item: Flutter
+
+tools:
+  - item: Bash
+  - item: Git & Github
+  - item: Chrome DevTools
+  - item: Postman
+  - item: MongoDB
+  - item: PBS & Linux Systems
+
+design:
+  - item: AutoCAD
+  - item: Solidworks
+  - item: Adobe Photoshop
+  - item: Prototyping
+  - item: Wireframing
+  - item: User Testing
