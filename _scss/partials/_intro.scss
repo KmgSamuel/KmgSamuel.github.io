@@ -155,6 +155,19 @@
       padding: 0;
       li { margin-bottom: 8px; }
     }
+
+    // Newsletter block styling
+    .intro__newsletter__title {
+      font-weight: 700;
+      margin-top: 20px;
+      margin-bottom: 10px;
+    }
+    .intro__newsletter__list {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      li { margin-bottom: 8px; }
+    }
   }
 
   // Stack on smaller screens
