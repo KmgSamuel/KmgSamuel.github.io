@@ -1,3 +1,10 @@
+# New project
+- name: AI CEO Dashboard
+  url: https://github.com/KmgSamuel/AI_CEO_Dashboard
+  description: An AI-driven executive dashboard for monitoring company metrics and orchestrating workflows.
+  used:
+    - thing: Python
+    
 - name: Fintech Mobile App
   url: https://www.onekwacha.com/
 #  code: https://github.com/bchiang7/Surf-Videos
@@ -85,6 +92,7 @@
     - thing: SCSS
     - thing: JavaScript
     - thing: Github Pages
+
 
 # - name: React Resume
 #   url: https://bchiang7.github.io/react-profile/
