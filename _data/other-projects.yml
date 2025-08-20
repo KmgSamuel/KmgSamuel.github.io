@@ -4,6 +4,12 @@
   description: An AI-driven executive dashboard for monitoring company metrics and orchestrating workflows.
   used:
     - thing: Python
+
+- name: Spread_OPT
+  url: https://github.com/KmgSamuel/Spread_OPT
+  description: Coplit for Venture Capitalists.
+  used:
+    - thing: Python
     
 - name: Fintech Mobile App
   url: https://www.onekwacha.com/
